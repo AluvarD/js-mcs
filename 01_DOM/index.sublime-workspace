@@ -1,0 +1,245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"read"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"b",
+				"border\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ilyaantipov/Desktop/git/js-mcs/index.html",
+		"/Users/ilyaantipov/Desktop/git/js-mcs/script.js",
+		"/Users/ilyaantipov/Desktop/git/js/imdex.html",
+		"/Users/ilyaantipov/Desktop/git/js/index.html",
+		"/Users/ilyaantipov/Desktop/транзакции.txt",
+		"/Users/ilyaantipov/Desktop/processor logs 208190287.txt",
+		"/Users/ilyaantipov/Desktop/дежурство",
+		"/Users/ilyaantipov/Desktop/Прог/main.js",
+		"/Library/WebServer/Documents/index.php",
+		"/Users/ilyaantipov/Desktop/ilyaantipov.conf",
+		"/Library/WebServer/Documents/index.html.en",
+		"/Library/WebServer/Documents/index.html.en~orig",
+		"/Users/ilyaantipov/Library/Application Support/Sublime Text 3/Packages/User/php.sublime-build",
+		"/Users/ilyaantipov/Desktop/bash/onlime",
+		"/Users/ilyaantipov/Desktop/Лекции/реферат.txt",
+		"/Users/ilyaantipov/Desktop/bash/script5.sh",
+		"/Users/ilyaantipov/Desktop/bash/script3.sh",
+		"/Users/ilyaantipov/Desktop/bash/script2.sh",
+		"/Users/ilyaantipov/Desktop/bash/script1.sh",
+		"/Users/ilyaantipov/Desktop/bash/script4.sh",
+		"/Users/ilyaantipov/Desktop/bash/test.sh",
+		"/Users/ilyaantipov/Desktop/Прог/Сайт html/index.html",
+		"/Users/ilyaantipov/Desktop/english/text9.html",
+		"/Users/ilyaantipov/Desktop/english/ex152.html",
+		"/Users/ilyaantipov/Desktop/english/text8.html",
+		"/Users/ilyaantipov/Desktop/english/conf.html",
+		"/Users/ilyaantipov/Desktop/Лекции/МСАВИ.txt",
+		"/Users/ilyaantipov/Desktop/Лекции/мсави курсач.txt",
+		"/Users/ilyaantipov/Desktop/сайт/index.html",
+		"/Users/ilyaantipov/Desktop/english.html",
+		"/Users/ilyaantipov/Desktop/lab1 sos/laba.md",
+		"/Users/ilyaantipov/Desktop/Лекции/tema rab.txt",
+		"/Users/ilyaantipov/Desktop/штвуч.html",
+		"/Users/ilyaantipov/Desktop/Лекции/Яшина и т.д. .txt",
+		"/Users/ilyaantipov/Desktop/Прог/Сайт html/lab62.txt",
+		"/Users/ilyaantipov/Desktop/Лекции/сос.txt",
+		"/Users/ilyaantipov/Downloads/AutoCAD 2016 for Mac/read me_AutoCAD 2016 для Mac.rtf"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
