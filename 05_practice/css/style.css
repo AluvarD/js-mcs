@@ -1,0 +1,23 @@
+@import url(reset.css);
+
+body {
+	background-color: lightgrey;
+}
+
+.position1 {
+	width: 200px;
+	height: 10px;
+	background: red;
+}
+
+.position2 {
+	width: 200px;
+	height: 10px;
+	background: blue;
+}
+
+.position3 {
+	width: 200px;
+	height: 10px;
+	background: green;
+}
